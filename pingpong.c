@@ -33,7 +33,6 @@ int main(int argc, char *argv[]) {
   n = atoi(argv[1]);
   stat = atoi(argv[2]);
 
-  printf("here\n");
   for (i = 0; i < n; i++) {                             /* populates the message                */
     message[n]=0.00123*i;
   }
