@@ -23,7 +23,7 @@ int main(int argc, char *argv[]) {
   double message[N], start, finish, elapsed;
   int comm_sz, my_rank, i, len, n, stat;
   int send = 0;
-  int recv = 1;
+  int recv = 17;
   char name[1000];
 
   MPI_Init(&argc, &argv);                               /* start up MPI                         */
