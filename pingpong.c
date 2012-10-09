@@ -14,7 +14,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <mpi.h>
-#define N 1000000
+#define N 600000
 
 
 // -----------------------------------------------------------------
